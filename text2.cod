@@ -1,0 +1,8 @@
+# نصب Git (اگر از قبل نصب نیست)
+!apt-get install git -qq
+
+# کلون کردن ریپازیتوری گیت‌هاب (آدرس ریپازیتوری را جایگزین کن)
+!git clone https://github.com/username/repository.git
+
+# وارد شدن به مسیر پروژه (اختیاری)
+%cd repository
